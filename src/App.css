@@ -214,7 +214,11 @@
   left: 40%;
   transform: rotate(38deg);
 }
-
+.current-project-5 {
+  top: 0;
+  left: 40%;
+  transform: rotate(-15deg);
+}
 .current-project:hover {
   transform: scale(1.1);
   z-index: 50;
